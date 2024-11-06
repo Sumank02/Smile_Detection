@@ -1,17 +1,17 @@
 --------------------"Rinex_Project"--------------------
 
 Project 2: "Smile_Detection"
-Python, Image file (JPG format)
+CascadeClassifier, detectMultiScale
 
 - import Libraries according to the requirements
 - import haarcascade file
+- read-image
+- SaleFactor and minNeighbors are tuning parameters for better image
 
+--haarcascade-- Mentioned in same repository (haarcascade_smile.xml)
 This dataset is about telecome empolyees from different regions.
 
 --Required Libraries--
 
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Sickit-learn
+- cv2
+- 
