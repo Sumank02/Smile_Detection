@@ -1,2 +1,3 @@
-# Smile_Detection
+
+-- Smile_Detection --
 Python, Image file in JPG format
