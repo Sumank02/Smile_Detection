@@ -14,3 +14,5 @@ This dataset is about telecome empolyees from different regions.
 --Required Libraries--
 
 - cv2
+
+Feel free to ask queries if facing any issues.
