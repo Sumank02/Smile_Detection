@@ -5,13 +5,14 @@ It detects faces and checks whether a smile is present in an image using the pro
 
 
 Project Structure
-
+```
 Smile_Detection/
 │
 ├── haarcascade_smile.xml     # Pretrained Haar cascade for smile detection
 ├── mk-4.png                  # Sample test image
 ├── project_2.py              # Main Python script for smile detection
 └── README.md                 # Project documentation
+```
 
 
 🧠 Overview
